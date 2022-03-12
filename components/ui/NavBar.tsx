@@ -29,7 +29,7 @@ export const NavBar = () => {
 						P
 					</Text>
 					<Text color="white" h3>
-						okémon
+						okémon!
 					</Text>
 				</Link>
 			</NextLink>
